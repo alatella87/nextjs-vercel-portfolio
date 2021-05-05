@@ -48,6 +48,17 @@ h2 {
   }
 }
 
+code {
+  font-size: .9em;
+  background-color: #384180;
+  padding: 2px .25em;
+  color: white;
+}
+
+.mt-24 {
+  margin-top: 50px !important;
+}
+
 details summary {
   cursor: pointer;
 }
