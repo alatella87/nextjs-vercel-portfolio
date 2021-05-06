@@ -67,6 +67,40 @@ img.next-image {
   margin: 0;
 }
 
+img[src*="#thumbnail"] {
+  width: 100%
+}
+
+img[src*="#gd"] {
+  width:150px;
+  float: left;
+  filter: invert(.05);
+}
+
+img[src*="#iol"] {
+  width:150px;
+  margin-bottom: 20px;
+  display: inline-block;
+  float: left;
+  filter: invert(.05);
+}
+
+img[src*="#azer1"] {
+  width: 100%;
+  margin-right: 5px;
+  float: left;
+}
+
+img[src*="#link"] {
+  width: 20px;
+  float: left;
+}
+
+img[src*="#lib1"] {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
 .prose a {
   color: #0074de;
 }
