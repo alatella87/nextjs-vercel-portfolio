@@ -6,7 +6,7 @@ date: 2021/3/18
 
 # UX Worldwide
 
-In June 2017, I started my own consultancy and advised clients on app development and UX Research.<br/><br/>
+Given the good results with Fairbnb, I started my own consultancy in early 2017 in Amsterdam and advised on application development and UX Research, landing 2 main customers.<br/><br/>
 
 ###
 
@@ -35,7 +35,8 @@ Role: Designer, Developer
 <img align="left" src="/images/wua.png" width="160" />
 
 ### <br/><br/><br/>
-CX Research: Vodafone France  
+CX Research: <a href="https://wuaglobal.com" target="_blank">WUA Global</a>  
+Project: Vodafone CX Digital Benchmark
 Tech:  `CX Research` 
 ```
 Role: CX Expert
