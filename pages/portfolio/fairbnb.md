@@ -17,13 +17,11 @@ In late 2018 we created a cooperative to serve as the legal entity behind the pr
 
 We have now based our headquarters in Bologna, Italy.
 
-![image alt >](/images/fbb.png)
+![image alt >](/images/fbb.png#thumbnail)
 
 ### 
 
 I am a co-founder at Fairbnb, currently member of the cooperative and was part of the original team who served designs and frontend to the team.
-
-###
  
 
 Website: <a href="https://fairbnb.coop" target="_blank">Fairbnb.coop</a>   

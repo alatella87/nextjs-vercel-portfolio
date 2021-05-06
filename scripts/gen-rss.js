@@ -20,7 +20,7 @@ async function generate() {
         path.join(__dirname, '..', 'pages', 'posts', name)
       )
       const frontmatter = matter(content)
-
+  
       feed.item({
         title: frontmatter.data.title,
         url: '/posts/' + name.replace(/\.mdx?/, ''),
