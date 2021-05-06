@@ -8,15 +8,12 @@ date: 2021/3/18
 
 In July 2018, Azerion hired me to expand its gaming portals and products portfolio. I had the chance to work on 10+ projects, with different tech stacks.<br/> <br/>Azerion is a Dutch technology and entertainment company, the result of the merger between [Improve Digital](https://improvedigital.com) and video game developer OrangeGames, based in Amsterdam. In addition to video games, Azerion offers a variety of technological solutions focused on improving the relationship between developers, publishers and gamers.<br/><br/>
 
-###
-
 ## GameDistribution
-
-###
 
 <img align="left" src="https://gamedistribution.com/images/logos/logo-whiteorange.svg" width="160" />
 
 ### <br/>
+
 Website: <a href="https://gamedistribution.com" target="_blank">GameDistribution</a>   
 Tech:  `JS` `Nuxt.js` `Vue.js` `SASS` 
 ```
@@ -27,15 +24,10 @@ Role: Frontend Team Member
 - Implemented developer.gamedistribution.com onboarding tutorial increasing usability
 - Implemented <a href="https://faq.gamedistribution.com" target="_blank">FAQs</a>  
 
-###
-
 ## italiaonline
-
-###
 
 <img align="left" src="/images/liberofun_logo_dark.png" width="120" />
 
-### <br/>
 Website: <a href="https://funfree.libero.it" target="_blank">Libero Fun</a>  
 Tech:  `JS` `XSLT` `Grunt` `SASS` `HTML5`
 ```
